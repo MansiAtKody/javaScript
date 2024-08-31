@@ -1,6 +1,6 @@
 {
-    "name": "demoo",
-    "short_name": "demoo",
+    "name": "dashboard",
+    "short_name": "dashboard",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
